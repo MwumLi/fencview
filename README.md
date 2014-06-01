@@ -1,4 +1,4 @@
 fencview
 ========
 
-change ｔｈｅ file encoding  for vim
+change the file encoding  for vim
